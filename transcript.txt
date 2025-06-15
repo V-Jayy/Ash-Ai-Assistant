@@ -1,0 +1,12 @@
+[USER] go to the next song on spotify please
+[BOT] Skipping to the next track
+[USER] i don't really like
+[BOT]  I apologize if my response wasn't helpful for your needs; however, let me know whenever you need an action performed. For now, Kyra will remain focused on assisting you with tasks around the computer. If there's any aspect of your request that could be improved or rephrased, please
+[USER] test
+[BOT]  Here are some examples of how you can use me:
+
+1. To open a website in the default browser, say:
+    > `open_website(url='https://example.com')`
+
+2. To launch an application, say:
+    > `launch_app(
